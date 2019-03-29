@@ -8,7 +8,7 @@ class Node {
     }
 }
 
-public class LinkedList {
+public class LinkedListImp {
     // removing Node nested class
     Node head;
 
